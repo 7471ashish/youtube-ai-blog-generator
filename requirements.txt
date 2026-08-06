@@ -1,0 +1,9 @@
+crewai
+openai
+langchain
+langchain-openai
+youtube-search-python
+youtube-transcript-api
+python-dotenv
+crewai[tools]
+streamlit
